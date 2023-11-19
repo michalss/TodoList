@@ -1,2 +1,2 @@
 # TodoList
-Simple todo app written with sxWidgets and c++
+Simple todo app written with wxWidgets and c++
